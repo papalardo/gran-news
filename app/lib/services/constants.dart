@@ -6,4 +6,4 @@ abstract class EndpointConstants {
   static const AUTH_USER = 'auth/user';
 }
 
-const API_BASE_URL = 'http://990ddf334b1e.ngrok.io/api';
+const API_BASE_URL = 'http://c56b42ad889c.ngrok.io/api';
